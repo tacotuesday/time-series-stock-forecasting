@@ -45,22 +45,22 @@ This repository contains a multi-part time series forecasting project focused on
 ## Directory Structure
 ```text
 stock-price-prediction/
-├── 1-time-series-components/
+├── 01-time-series-components/
 │   ├── data/
 │   ├── notebooks/
 │   │   ├── EDA.ipynb
 │   │   └── stationarity_tests.ipynb
 │   └── scripts/
-├── 2-traditional-analysis/
+├── 02-traditional-analysis/
 │   ├── data/
 │   ├── notebooks/
 │   │   ├── traditional_analysis.ipynb
 │   └── scripts/
-├── 3-deep-learning/ **(TBD)**
+├── 03-deep-learning/ **(TBD)**
 │   ├── data/
 │   ├── notebooks/
 │   └── scripts/
-├── 4-hybrid-model/ **(TBD)**
+├── 04-hybrid-model/ **(TBD)**
 │   ├── data/
 │   ├── notebooks/
 │   └── scripts/
